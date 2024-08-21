@@ -3,3 +3,4 @@ This is a discord bot made with Python. It scrapes the planet fitness website's 
 
 The URL currently goes to the Planet Fitness in Escondido, CA on Valley Parkway.
 
+Use pip install -r requirements.txt to get necessary libraries.
